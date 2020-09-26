@@ -1,0 +1,26 @@
+body {
+    /* The font will be inherited by elements nested within the body tag */
+    font-family: 'Roboto', sans-serif;
+    background-color: #E0F2FB ;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#headline {
+    margin-left: auto;
+    margin-right: auto;
+    width: 17em;
+}
+
+img {
+    width: 100%;
+    max-width: 900px;
+}
+
+div.background-text-box {}
